@@ -1,8 +1,13 @@
+<div align="center">
+ 
 # WhatDoYouSing
 이화여대 멋쟁이 사자처럼 11기 졸업 프로젝트 3팀 <br/><br/>
 
+</div>
+
 ## 🎶프로젝트 소개
-### 당신은 지금 어떤 이야기를 노래하나요? <br/> 나만의 해석을 덧붙인 가사 탐색 서비스 '왓두유씽'<br/>
+> 당신은 지금 어떤 이야기를 노래하나요?<br/>
+> 나만의 해석을 덧붙인 가사 탐색 서비스 <b>'왓두유씽'</b> <br/>
 <p align="center">
  <img src="https://github.com/binys21/11th-Hackerthon-2023/assets/126451052/c240f41e-0fea-4f26-89c8-323f60761205" width="1080"/>
 </p>
@@ -44,7 +49,7 @@
 <br/>
 <br/>
 
-## 🗂️ 폴더 구조 (추후 업데이트 예정)
+## 🗂️ 폴더 구조
 ```
 📂 public
 ⎪   └─  favicon.ico
@@ -52,10 +57,6 @@
 📂 src
 ├─ 📂 components
 ⎪  ⎪   └─ 📂 _common                    
-⎪  ⎪   ⎪   └─ LyricsItem.jsx
-⎪  ⎪   ⎪   └─ Dropdown.jsx
-⎪  ⎪   ⎪   └─ Emotion.jsx
-⎪  ⎪   ⎪   └─ EmotionGroup.jsx
 ⎪  ⎪   └─  AskModal.jsx
 ⎪  ⎪   └─  ShareModal.jsx
 ⎪  ⎪   └─  CommentBox.jsx
@@ -67,10 +68,13 @@
 ⎪  ⎪   └─  Loginpage.jsx
 ⎪  ⎪   └─  SignUppage.jsx
 ⎪  ⎪   └─  Mainpage.jsx
-⎪  ⎪   └─  Detailpage.jsx       
-⎪  ⎪   └─  Surfpage.jsx
+⎪  ⎪   └─  Detailpage.jsx
+⎪  ⎪   └─  Postpage.jsx
+⎪  ⎪   └─  Recommendpage.jsx    
+⎪  ⎪   └─  Resultpage.jsx
 ⎪  ⎪   └─  Searchpage.jsx
-⎪  ⎪   └─  Mypage.jsx       
+⎪  ⎪   └─  Mypage.jsx
+⎪  📂 hooks     
 ⎪  📂 statics 
 ⎪  ⎪   └─ 📂 fonts
 ⎪  ⎪   └─ 📂 styles          
