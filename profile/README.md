@@ -26,6 +26,9 @@
 ### 🤩 기획 디자인
  |이지민|이채원|
  |:------:|:------:|
+ |<img src="https://github.com/EWHA-LIKELION/11th-Session-Front/assets/126451052/5be0ddde-1351-406a-bfdf-1d04f05a824f" width="100" height="100"/>|<img src= "https://github.com/EWHA-LIKELION/11th-Session-Front/assets/126451052/c20c4ebf-fe3f-4c4a-9da0-80c61444288e" width="100" height="100"/>|
+|기획·브랜딩 <br /> 모바일 디자인 <br /> 프로토타이핑 <br/> 감정 아이콘 디자인 <br /> 영문 워드마크 디자인|기획·브랜딩 <br /> 모바일 디자인 <br /> PC 디자인 <br /> 부가 아이콘 디자인 <br /> 국문 워드마크 디자인|
+<br/>
  
 ### 🧙‍♂️ 프론트엔드 개발
  |변지혜|최지원|
