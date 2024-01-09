@@ -7,7 +7,7 @@
 
 ## 🎶프로젝트 소개
 > 당신은 지금 어떤 이야기를 노래하나요?<br/>
-> 나만의 해석을 덧붙인 가사 탐색 서비스 <b>'왓두유씽'</b> <br/>
+> 나만의 해석을 덧붙인 가사 탐색 서비스 <b>'왓두유씽?'</b> <br/>
 <p align="center">
  <img src="https://github.com/WhatDoYouSing/.github/assets/127848725/c5d0507f-847b-43a5-84f7-6b73a8af021e" width="1080"/>
 </p>
